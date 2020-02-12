@@ -72,7 +72,7 @@ public class App extends Application {
     private void run(GraphicsContext gc) {
         // ustawienie grafiki
         gc.setFill(Color.ORANGE);
-        //ustawienie koloru tla
+        //ustawienie koloru tla /
         gc.fillRect(0, 0, szerokosc, wysokosc);
 
         //ustawienie kolor paletki
