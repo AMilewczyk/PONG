@@ -12,7 +12,8 @@ Projekt klasyczna gra PONG
 * MAVEN
 	
 ## Motywacja
-* Chęć nauki o JAVA FX 
+* Nauka JAVA FX  
   
-// ## Ustawienia
+## Uruchomienie
+Sklonowanie projektu do własnego IDE.
 
