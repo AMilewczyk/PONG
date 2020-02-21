@@ -1,4 +1,3 @@
-org\AM\App.class
 module-info.class
+org\AM\App.class
 org\AM\SystemInfo.class
-org\AM\test.class
