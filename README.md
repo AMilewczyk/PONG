@@ -15,5 +15,6 @@ Projekt klasyczna gra PONG
 * Nauka JAVA FX  
   
 ## Uruchomienie
-Sklonowanie projektu do własnego IDE.
+Klonowanie projektu do własnego IDE.
+
 
