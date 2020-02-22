@@ -10,6 +10,35 @@ import org.junit.jupiter.api.Test;
 
 class AppTest {
 
+
+    @Test
+    void pongTest_startGry() {
+
+        App app = new App();
+
+        boolean startGry = false;
+
+        Assertions.assertTrue(startGry);
+
+
+    }
+
+    @Test
+    void pongTest_startGryf() {
+
+        App app = new App();
+
+        boolean startGry = true;
+
+        Assertions.assertTrue(startGry);
+
+
+    }
+    private void assertTrue() {
+
+    }
+
+
     @org.junit.jupiter.api.Test
     void launch() {
     }
