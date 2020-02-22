@@ -141,11 +141,7 @@ public class App extends Application {
         //wyswietl zawodnikow
         gc.fillRect(gracz2PozX, gracz2pozY, gracz_szerokosc, gracz_wysokosc);
         gc.fillRect(gracz1PozX, gracz1pozY, gracz_szerokosc, gracz_wysokosc);
-
-
     }
-
-
 
     // start aplikacji
     public static void main(String[] args) {
